@@ -26,4 +26,3 @@ jobs:
 
     - name: Build the project
       run: npx next build
-
