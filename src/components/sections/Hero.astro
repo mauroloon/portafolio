@@ -80,7 +80,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src={image} alt={name} class="profile">
+    </figure>
     </figure>
   </div>
 </Section>
@@ -178,6 +179,10 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 
     figure {
       margin: 0 auto;
+    }
+    .profile {
+      width: 100%;
+      height: 100%;
     }
   }
 </style>
