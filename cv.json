@@ -21,11 +21,6 @@
         "url": "https://linkedin.com/in/mauricio-quezada"
       },
       {
-        "network": "X",
-        "username": "",
-        "url": ""
-      },
-      {
         "network": "GitHub",
         "username": "mauroloon",
         "url": "https://github.com/mauroloon"
@@ -35,7 +30,7 @@
   "work": [
     {
       "name": "Super intendencia del medio ambiente",
-      "position": "Desarrollador Full Stack",
+      "position": "Full Stack Developer",
       "url": "http://www.sma.gob.cl",
       "startDate": "2024-03-11",
       "endDate": null,
@@ -46,7 +41,7 @@
     },
     {
       "name": "Destacame",
-      "position": "Full Stack Developer ",
+      "position": "Full Stack Developer",
       "url": "https://www.destacame.cl",
       "startDate": "2021-02-14",
       "endDate": "2024-01-26",
@@ -57,12 +52,33 @@
     },
     {
       "name": "Apiux - SMA",
-      "position": "Full Stack Developer ",
+      "position": "Full Stack Developer",
       "url": "https://www.api-ux.com",
       "startDate": "2020-01-01",
       "endDate": "2021-02-01",
-      "summary": "...",
+      "summary": "Desarrollador en la SMA (Super Intendencia del medio Ambiente), participe de los proyectos de catastro de emisiones y de la plataforma de denuncias ambientales.",
       "highlights": [
+      ]
+    },
+    {
+      "name": "Utem",
+      "position": "Sowftware Engineer",
+      "url": "https://www.utem.cl",
+      "startDate": "2018-04-01",
+      "endDate": "2020-01-01",
+      "summary": "Desarrollo y mantención de la intranet de la universidad, la cual sería tanto para estudiantes como profesores, también participe en la migración de la plataforma de php a python.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "LET CHILE Spa",
+      "position": "Software Analyst",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2018-04-01",
+      "summary": "Desarrollo y mantención de la plataforma web de la empresa, también participe en la creación de la aplicación móvil de la empresa.",
+      "highlights": [
+        "Android"
       ]
     }
   ],
@@ -129,19 +145,27 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Nuxt.js",
       "level": "Intermedio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
-      "name": "React",
+      "name": "Vue",
       "level": "Intermedio",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Testing"
+      ]
     }
+
   ],
   "languages": [
     {
