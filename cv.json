@@ -190,15 +190,17 @@
   }],
   "projects": [
     {
-      "name": "...",
+      "name": "Registros de pago",
       "isActive": true,
-      "description": "...",
+      "description": "Aplicación que lee correos y extrae información de los pagos realizados, para luego ser almacenados en una base de datos.",
       "highlights": [
-        "Test 1",
-        "Test 2"
+        "Python",
+        "Aws Lambda",
+        "Aws DynamoDB",
+        "Notion"
       ],
-      "url": "...",
-      "github": "..."
+      "url": "https://github.com/mauroloon/notify-purchases",
+      "github": "https://github.com/mauroloon/notify-purchases"
     }
   ]
 }
